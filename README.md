@@ -68,11 +68,11 @@ scripts/lint.mjs     broken links, orphans, missing frontmatter, files missing f
 
 The side project this system ran has made $0 so far. The rules are the useful part, and that is what's shared here.
 
-## License
 ## More
 
 Free: [25 copy-paste prompts for boring adult tasks](https://gorevoi.gumroad.com/l/jdkbqi) — bills, landlords,
 insurance, cancellations. Same rule as here: each prompt tells you how to check the answer.
 
+## License
 
 MIT
